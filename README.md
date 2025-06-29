@@ -5,3 +5,4 @@ Discord-Token-Humanizer is a tool designed to simulate real user activity on Dis
 
 dont download stilll working on it
 stars are accepted
+s
